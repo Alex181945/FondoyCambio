@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/ib1"
         android:layout_centerHorizontal="true"
-        android:onClick=""
+        android:onClick="sig"
         android:text="@string/segboton"/>
 
 </RelativeLayout>
