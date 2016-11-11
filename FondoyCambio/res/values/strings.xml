@@ -6,5 +6,6 @@
     <string name="hello_world">Bienvenido a la App</string>
     <string name="segboton">Cambia de Pantalla</string>
     <string name="descripcion">Cambia de Pantalla</string>
+    <string name="salir">Salir</string>
 
 </resources>
