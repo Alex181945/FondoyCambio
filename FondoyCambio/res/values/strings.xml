@@ -7,5 +7,6 @@
     <string name="segboton">Cambia de Pantalla</string>
     <string name="descripcion">Cambia de Pantalla</string>
     <string name="salir">Salir</string>
+    <string name="title_activity_prueba">Prueba</string>
 
 </resources>
