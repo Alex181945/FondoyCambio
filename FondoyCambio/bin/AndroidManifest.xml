@@ -22,6 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        
+        <!--Para que se pueda abrir la actividad Segunda-->
+        <activity
+            android:name=".Segunda"
+            android:label="@string/app_name" >
+        </activity>
+        
     </application>
 
 </manifest>
